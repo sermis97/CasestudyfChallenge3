@@ -70,6 +70,7 @@ Challenge 2: The Song of Airtame
 2.	The product uses physical devices and a cloud platform. End-2-End testing to cover all user activities might be challenging. 
 
 ##################################################################################
+
 Challenge 3: Buy in
 
 # CasestudyfChallenge3
